@@ -23,13 +23,13 @@
 
 - 🌱 I’m currently learning *React, Redux, MongoDB, Express*
 
-- 👨‍💻 All of my projects are available at <b><a href="https://bespoke-caramel-b3e0ef.netlify.app" target="_blank">PORTFOLIO</a></b>
+- 👨‍💻 All of my projects are available at <b><a href="" target="_blank">PORTFOLIO</a></b>
 
 - 💬 Ask me about *MERN stack*
 
-- 📫 How to reach me <b>*priyankaphulmante98@gmail.com*</b>
+- 📫 How to reach me <b>*muddamwarshubham98@gmail.com*</b>
 
-- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1Zbm2brreRGIcMkK2IWoJS7AiBSwJkIyv/view?usp=sharing" target="_blank">RESUME</a></b>
+- 📄 Know about my work in my <b><a href="" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am creative person and I love nature!*
 
@@ -75,10 +75,6 @@
      <br />
      <br />
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
-    <a href="https://leetcode.com/priyankaphulmante98">
-    <img align="center" alt="priyanka's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" /></a>&nbsp
-    <a href="https://www.hackerrank.com/priyankaphulman1">
-    <img align="center" alt="priyanka's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" /></a>
 </div>
   <br/>
 
@@ -86,15 +82,12 @@
 <div align="center">
 <h2><i> Let's Connect</i></h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/priyanka-phulmante-181633191/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/priyanka-phulmante-181633191/" />
+    <a href="https://www.linkedin.com/in/shubham-muddamwar/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/shubham-muddamwar/" />
     </a>
-    <a href="https://twitter.com/priyankaphulma1">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/priyankaphulma1" />
-    </a>
-    <a title="priyankaphulmante98@gmail.com" href="priyankaphulmante98@gmail.com.com">
+    <a title="muddamwarshubham98@gmail.com" href="muddamwarshubham98@gmail.com.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-           alt="priyankaphulmante98@gmail.com"/>
+           alt="muddamwarshubham98@gmail.com"/>
     </a>
     <a href="https://bespoke-caramel-b3e0ef.netlify.app/"target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
@@ -112,15 +105,15 @@
 
 <h3 align="left> 📊 My Github Stats</h3>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyankaphulmante98&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaphulmante98" />
-<a href="https://github.com/priyankaphulmante98?tab=followers"><img src="https://img.shields.io/github/followers/priyankaphulmante98?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shubham18598&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham18598" />
+<a href="https://github.com/Shubham18598/?tab=followers"><img src="https://img.shields.io/github/followers/Shubham18598?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
   <br/>
   
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankaphulmante98&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="priyankaphulmante98" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankaphulmante98&layout=compact&border_radius=0" alt="priyankaphulmante98" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubham18598&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="Shubham18598" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham18598&layout=compact&border_radius=0" alt="Shubham18598" height="139" />
 </p>
 
 <br/>
@@ -131,13 +124,13 @@
  	
 <p align="center">
     <a href="https://github.com/priyankaphulmante98/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="priyanka phulmante's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaphulmante98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubham Muddamwar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham18598&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   
-<p align="center"<a href="#"><img alt="Priyanka" src="https://activity-graph.herokuapp.com/graph?username=priyankaphulmante98&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Shubham" src="https://activity-graph.herokuapp.com/graph?username=Shubham18598&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
-<p align="center"> <a href="https://github.com/priyankaphulmante98"><img src="https://github-profile-trophy.vercel.app/?username=priyankaphulmante98&margin-w=5&theme=radical" alt="Priyanka" /></a> </p>
+<p align="center"> <a href="https://github.com/Shubham18598"><img src="https://github-profile-trophy.vercel.app/?username=Shubham18598&margin-w=5&theme=radical" alt="Shubham" /></a> </p>
 
  </div>
 

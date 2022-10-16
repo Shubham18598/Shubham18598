@@ -85,14 +85,14 @@
     <a href="https://www.linkedin.com/in/shubham-muddamwar/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/shubham-muddamwar/" />
     </a>
-    <a title="muddamwarshubham98@gmail.com" href="muddamwarshubham98@gmail.com.com">
+    <a title="muddamwarshubham98@gmail.com" href="muddamwarshubham98@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
            alt="muddamwarshubham98@gmail.com"/>
     </a>
-    <a href="https://bespoke-caramel-b3e0ef.netlify.app/"target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
+    <a href="https://bespoke-caramel-b3e0ef.netlify.app/"target="_blank"><img align="center" src="" 
           alt="portfolio"/>
     </a>
-<a href="https://drive.google.com/file/d/1pAd3sR3IwbZpGsRnQec998hOAK02IHO2/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
+<a href="https://drive.google.com/file/d/1pAd3sR3IwbZpGsRnQec998hOAK02IHO2/view?usp=sharing" target="_blank"><img align="center" src="" alt="resume"/>
 </a>
 </p>
 </div>
@@ -123,7 +123,7 @@
  <hr/>
  	
 <p align="center">
-    <a href="https://github.com/priyankaphulmante98/github-readme-streak-stats">
+    <a href="https://github.com/Shubham18598/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubham Muddamwar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham18598&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>

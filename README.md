@@ -89,10 +89,10 @@
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
            alt="muddamwarshubham98@gmail.com"/>
     </a>
-    <a href="https://bespoke-caramel-b3e0ef.netlify.app/"target="_blank"><img align="center" src="" 
+    <a href=""><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
     </a>
-<a href="https://drive.google.com/file/d/1pAd3sR3IwbZpGsRnQec998hOAK02IHO2/view?usp=sharing" target="_blank"><img align="center" src="" alt="resume"/>
+<a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
 </a>
 </p>
 </div>

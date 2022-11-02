@@ -23,13 +23,13 @@
 
 - 🌱 I’m currently learning *React, Redux, MongoDB, Express*
 
-- 👨‍💻 All of my projects are available at <b><a href="" target="_blank">PORTFOLIO</a></b>
+- 👨‍💻 All of my projects are available at <b><a href="https://shubham18598.github.io/" target="_blank">PORTFOLIO</a></b>
 
 - 💬 Ask me about *MERN stack*
 
 - 📫 How to reach me <b>*muddamwarshubham98@gmail.com*</b>
 
-- 📄 Know about my work in my <b><a href="" target="_blank">RESUME</a></b>
+- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1PQ28_-NRwcK09rBNShws_1q7oMM4rWKV/view?usp=sharing" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am creative person and I love traveling!*
 
@@ -89,10 +89,10 @@
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
            alt="muddamwarshubham98@gmail.com"/>
     </a>
-    <a href=""><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
+    <a href="https://shubham18598.github.io/"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
     </a>
-<a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
+<a href="https://drive.google.com/file/d/1PQ28_-NRwcK09rBNShws_1q7oMM4rWKV/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
 </a>
 </p>
 </div>

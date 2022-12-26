@@ -82,14 +82,14 @@
 <div align="center">
 <h2><i> Let's Connect</i></h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/shubham-muddamwar/">
+    <a href="https://www.linkedin.com/in/shubham-muddamwar/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/shubham-muddamwar/" />
     </a>
-    <a title="muddamwarshubham98@gmail.com" href="muddamwarshubham98@gmail.com">
+    <a title="muddamwarshubham98@gmail.com" href="muddamwarshubham98@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
            alt="muddamwarshubham98@gmail.com"/>
     </a>
-    <a href="https://shubham18598.github.io/"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
+    <a href="https://shubham18598.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
     </a>
 <a href="https://drive.google.com/file/d/1PQ28_-NRwcK09rBNShws_1q7oMM4rWKV/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>

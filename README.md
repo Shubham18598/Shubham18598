@@ -12,7 +12,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<p>Currently Studying in Masai School To become a Full-Stack-Web-Developer. 
+<!-- <p>Currently Studying in Masai School To become a Full-Stack-Web-Developer.  -->
 <!--      I have completed my graduation BE in Electrical from Amravati University. I pushed myself into MERN stack development which is an amazing       technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focuses on writing clean, elegant and efficient code. I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p> -->
 <br>
 

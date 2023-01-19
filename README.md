@@ -13,13 +13,13 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <p>Currently Studying in Masai School To become a Full-Stack-Web-Developer. 
-     I have completed my graduation BE in Electrical from Amravati University. I pushed myself into MERN stack development which is an amazing       technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focuses on writing clean, elegant and efficient code. I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p>
+<!--      I have completed my graduation BE in Electrical from Amravati University. I pushed myself into MERN stack development which is an amazing       technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focuses on writing clean, elegant and efficient code. I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p> -->
 <br>
 
 <img src="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133" width="421" height="280" align="right" />
 
 
-- 🔭 I’m currently working on *MERN Stack*
+<!-- - 🔭 I’m currently working on *MERN Stack* -->
 
 - 🌱 I’m currently learning *React, Redux, MongoDB, Express*
 
@@ -29,7 +29,7 @@
 
 - 📫 How to reach me <b>*muddamwarshubham98@gmail.com*</b>
 
-- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1PQ28_-NRwcK09rBNShws_1q7oMM4rWKV/view?usp=sharing" target="_blank">RESUME</a></b>
+<!-- - 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1PQ28_-NRwcK09rBNShws_1q7oMM4rWKV/view?usp=sharing" target="_blank">RESUME</a></b> -->
 
 - ⚡ Fun fact - *I am creative person and I love traveling!*
 

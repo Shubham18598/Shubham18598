@@ -28,7 +28,7 @@
 
 - 💬 Ask me about *MERN stack*
 
-- 📫 How to reach me <b>*muddamwarshubham98@gmail.com*</b>
+- 📫 How to reach me <b>*sd.muddamwar98@gmail.com*</b>
 
 - 📄 Know about my work in my <b><a href="" target="_blank">RESUME</a></b>
 

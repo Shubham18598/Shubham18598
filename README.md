@@ -1,6 +1,6 @@
 <!----------------------------------- Heading Section ------------------------------------>
 
-<img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" alt="Shubham Muddamwar" />
+<img src="https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Shubham Muddamwar" />
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
@@ -17,7 +17,7 @@
      I have completed my graduation BE in Electrical from Amravati University. I pushed myself into MERN stack development which is an amazing       technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focuses on writing clean, elegant and efficient code. I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p>
 <br>
 
-<img src="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133" width="421" height="280" align="right" />
+<img src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2877.jpg" width="421" height="320" align="right" />
 
 
 - 🔭 I’m currently working on *MERN Stack*
